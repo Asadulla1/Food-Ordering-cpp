@@ -1,0 +1,6 @@
+1) To make an order First type your Name.
+2) Then Type Food Name like if you want to Order Burger Then Type burger.
+3) Then Type Number for select Varient of flavour.
+4) Then Type Quantity.
+5) Then If you Want to order anything else type y otherwise n.
+Thank You.
